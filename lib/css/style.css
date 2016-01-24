@@ -103,7 +103,7 @@ button:hover{
 	font-family: sans-serif;
 	font-size: 12px;
 	position: absolute;
-	bottom: -40px;
+	bottom: -80px;
 	right: 0;
 	display: none;
 }
@@ -236,4 +236,8 @@ button:hover{
     left: calc(50% - 152px);
     top: -90px;
     transition: top 1s ease;
+}
+
+#faucetButton{
+    left: 0px;
 }
