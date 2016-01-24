@@ -236,6 +236,7 @@ button:hover{
     left: calc(50% - 152px);
     top: -90px;
     transition: top 1s ease;
+    z-index: 1000;
 }
 
 #faucetButton{
