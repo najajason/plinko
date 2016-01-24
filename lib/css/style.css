@@ -229,3 +229,11 @@ button:hover{
 	float: left;
 	margin-left: 7px;
 }
+
+#faucetClaimCaptcha{
+    position: absolute;
+    width: 304px;
+    left: calc(50% - 152px);
+    top: -90px;
+    transition: top 1s ease;
+}
